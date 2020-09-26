@@ -1,1 +1,3 @@
-# dummy
+# Belajar Git
+
+Test first Repo
